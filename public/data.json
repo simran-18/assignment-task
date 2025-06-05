@@ -1,0 +1,33 @@
+[
+  {
+    "id": 1,
+    "image": "/assets/image_1.avif",
+    "tag": "Photography",
+    "text": "A futuristic vehicle designed for speed and silence glides through deserted highways in a world without sound."
+  },
+  {
+    "id": 2,
+    "image": "/assets/image_2.avif",
+    "tag": "AI & Robotics",
+    "text": "In the age of automation, a humanoid robot learns empathy by observing humans in a post-collapse society."
+  },
+  
+  {
+    "id": 3,
+    "image":"/assets/image_3.avif",
+    "tag": "Architecture",
+    "text": "Among shattered buildings, one structure stands tall — a relic of human ingenuity defying nature’s wrath."
+  },
+  {
+    "id": 4,
+    "image": "/assets/image_4.avif",
+    "tag": "Survival",
+    "text": "A lone traveler camps under a glowing sky, finding peace in chaos as civilization fades into memory."
+  },
+  {
+    "id": 5,
+    "image": "/assets/image_3.avif",
+    "tag": "Nature",
+    "text": "Despite nuclear winter, pockets of untouched nature bloom quietly, reminding humanity of resilience and rebirth."
+  }
+]
